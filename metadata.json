@@ -1,0 +1,6 @@
+{
+  "name": "NutriLife – Eat Smart, Live Healthy",
+  "description": "Comprehensive food nutrition platform for calorie tracking, smart nutrient calculator, healthy recipes, food comparisons, and daily wellness logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
